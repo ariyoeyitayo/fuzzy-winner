@@ -1,18 +1,4 @@
-@font-face {
-  font-family: Poppins;
 
-  src: url(../../Fonts/Poppins-Regular.ttf)
-        url(../../Fonts/Poppins-Black.ttf)
-        url(../../Fonts/Poppins-BlackItalic.ttf)
-        url(../../Fonts/Poppins-SemiBold.ttf)
-        url(../../Fonts/Poppins-SemiBoldItalic.ttf)
-        url(../../Fonts/Poppins-Bold.ttf)
-        url(../../Fonts/Poppins-Medium.ttf)
-        url(../../Fonts/Poppins-MediumItalic.ttf)
-        url(../../Fonts/Poppins-Thin.ttf)
-        url(../../Fonts/Poppins-Light.ttf)
-  ;
-}
 
 @font-face {
   font-family: Nunito;

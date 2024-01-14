@@ -1,11 +1,4 @@
-@font-face {
-  font-family: Gabarito;
-  src: url(../../Fonts/Gabarito-VariableFont_wght.ttf);
-}
-@font-face {
-  font-family: Nunito;
-  src: url(../../Fonts/Nunito-VariableFont_wght.ttf);
-}
+
 * {
   font-family: "Gabarito";
 }
