@@ -13,7 +13,7 @@ const Contact = () => {
         </div>
 
         <div className="flex justify-center items-center">
-          <form action="https://getform.io/f/0302ff41-e973-4f72-ac14-ebfd0f3d9e3b" method="POST" className="flex flex-col w-full md:w-1/2">
+          <form netlify action="https://getform.io/f/0302ff41-e973-4f72-ac14-ebfd0f3d9e3b" method="POST" className="flex flex-col w-full md:w-1/2">
             <input
               type="text"
               name="name"
