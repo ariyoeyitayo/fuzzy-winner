@@ -17,10 +17,7 @@ const About = () => {
 
 I specialize in both front-end and back-end technologies, including HTML, CSS, JavaScript, React, and Node.js. My goal is to contribute to projects that not only meet but exceed user expectations, pushing the boundaries of what's possible in the digital landscape.
 
-I believe in the power of continuous learning and staying updated with the latest industry trends. Collaboration is at the core of my work philosophy, and I thrive in dynamic team environments where innovative ideas are valued.
-
-When I'm not coding, I enjoy exploring new technologies, contributing to open-source projects, and embracing the creative process of problem-solving. Let's connect and bring your web development ideas to life!
-        </p>
+I believe in the power of continuous learning and staying updated with the latest industry trends.  </p>
 
         <br />
 
