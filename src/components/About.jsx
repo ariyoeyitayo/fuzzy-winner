@@ -12,7 +12,7 @@ const About = () => {
             About
           </p>
         </div>
-        <p className="text-xl mt-10">
+        <p className="text-xl mt-20">
         Hi, I'm Ariyo Eyitayo Emmanuel, a Full-Stack Web Developer with a passion for crafting digital experiences that seamlessly blend functionality and aesthetics. My journey in web development started with a fascination for building interactive and dynamic websites.
 
 I specialize in both front-end and back-end technologies, including HTML, CSS, JavaScript, React, and Node.js. My goal is to contribute to projects that not only meet but exceed user expectations, pushing the boundaries of what's possible in the digital landscape.
